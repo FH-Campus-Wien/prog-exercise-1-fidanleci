@@ -28,6 +28,27 @@ public class App {
     //todo Task 3
     public void sumOfLiterals(){
         // input your solution here
+        char Z = 90;
+        int x = 64206;
+        int a = 18;
+        long b = 80L;
+        float c = 44e-1f;
+        float d = 5.5f;
+        double e = 8.88e1;
+        double f = 99.9;
+
+
+        float g = (int) c;
+        float h = (int) d;
+        double i = (int) e;
+        double j = (int) f;
+        long k = (int) b;
+
+        int sum = (char) Z + (int) a + (int) x + (int) c + (int) d + (int) + (int) e + (int) f + (int) b;
+        System.out.println(""+sum);
+
+
+
     }
 
     //todo Task 4
