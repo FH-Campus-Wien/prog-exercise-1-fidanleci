@@ -30,7 +30,7 @@ public class App {
         // input your solution here
         char Z = 90;
         int x = 64206;
-        int a = 18;
+        int a = 012;
         long b = 80L;
         float c = 44e-1f;
         float d = 5.5f;
